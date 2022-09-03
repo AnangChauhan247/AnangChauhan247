@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnangChauhan
 - 👀 I’m interested in ... Learnig and implementing new technologies
-- 🌱 I’m currently learning ... competative programming, development
+- 🌱 I’m currently polishing my concepts of ...Data structure and algorithms. 
 - 📫 How to reach me ... just email me at anangchauhan24@gmail.com
 
 <!---
